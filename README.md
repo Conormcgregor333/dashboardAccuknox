@@ -77,11 +77,17 @@ Now in this terminal , we are going to host a json file locally using json serve
 1. ReactJS
 2. Tailwind CSS
 3. RTK Query
+
+h3 align="left">Languages and Tools:</h3>
+<p allign="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</p>
+
+
 ## Demo
 
 git- https://github.com/Conormcgregor333/dashboardAccuknox
-
-
 
 
 ## Problem
@@ -96,4 +102,4 @@ git- https://github.com/Conormcgregor333/dashboardAccuknox
 
 ## Made with ❤️ and 🥛 by Siddharth Pareek
 
-Hey there , if you ran into any issue while running this webapp locally , feel free to ask me at linkedin or mail me at siddharth2000pareek@gmail.com. 
+Hey there , if you ran into any issue while running this webapp locally , feel free to ask me at https://www.linkedin.com/in/siddharth-pareek-75514b190/ or mail me at siddharth2000pareek@gmail.com. 
