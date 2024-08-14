@@ -40,7 +40,7 @@ If the directory is already dashboardAccuknox then you can run the below command
 ![git3](https://github.com/user-attachments/assets/fd524579-13e8-47f0-ba52-11d3f55b9e43)
 
 
-The above command will start the server and you will be able to see the locally hosted website link . But wait , we still got to host the JSON data so that we can fetch fom it.
+The above command will start the server and you will be able to see the locally hosted website link . But wait , we still got to host the JSON data so that we can fetch from it.
 
 Now open another terminal in your code editor and change the directories just as you did above. 
 
@@ -63,8 +63,13 @@ Now in this terminal , we are going to host a json file locally using json serve
 
 ## Some images of the webpage- 
 
+### Home Page
 ![git4](https://github.com/user-attachments/assets/b7fa8306-2db8-499a-8b32-33cb36e4250d)
+
+### Dashboard
 ![git5](https://github.com/user-attachments/assets/57cdf199-3af5-42e2-bf4e-6249faa54193)
+
+### Dashboard Options
 ![git6](https://github.com/user-attachments/assets/db33e806-6245-487e-b997-f03ddbb4c6b3)
 
 
