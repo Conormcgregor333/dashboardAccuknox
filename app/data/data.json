@@ -1,0 +1,67 @@
+{
+  "widgetData": [
+    {
+      "id": "1",
+      "widgetCategory": "CSPM",
+      "widgetTitle": "Widget Title1",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    },
+    {
+      "id": "2",
+      "widgetCategory": "CSPM",
+      "widgetTitle": "Widget Title2",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    },
+    {
+      "id": "3",
+      "widgetCategory": "CSPM",
+      "widgetTitle": "Widget Title3",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    },
+    {
+      "id": "4",
+      "widgetCategory": "CSDP",
+      "widgetTitle": "Widget Title4",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    },
+    {
+      "id": "5",
+      "widgetCategory": "CSDP",
+      "widgetTitle": "Widget Title5",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    },
+    {
+      "id": "6",
+      "widgetCategory": "CSDP",
+      "widgetTitle": "Widget Title6",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    },
+    {
+      "id": "7",
+      "widgetCategory": "CWPP",
+      "widgetTitle": "Widget Title7",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    },
+    {
+      "id": "8",
+      "widgetCategory": "CWPP",
+      "widgetTitle": "Widget Title8",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    },
+    {
+      "id": "9",
+      "widgetCategory": "CWPP",
+      "widgetTitle": "Widget Title9",
+      "widgetText": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. At velit illum provident a, ipsa maiores deleniti consectetur nobis et eaque.",
+      "dateCreated": "31st June,2024"
+    }
+  ]
+}
